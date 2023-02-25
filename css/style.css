@@ -1,0 +1,27 @@
+.forms{
+    font-size: larger;
+    width: 300px;
+    padding: 20px;
+    margin: 10px;
+
+}
+input[type=text], input[type=email]{
+    border-radius: 10px;
+    width: 200px;
+    height: 30px;
+    padding: 20px;
+    margin: 10px;
+}
+input[type=checkbox], input[type=radio]{
+    width: 20px;
+    height: 20px;
+    padding: 20px;
+    margin: 10px;
+}
+textarea{
+    border-radius: 10px;
+    width: 400px;
+    height: 70px;
+    padding: 20px;
+    margin: 10px;
+}
